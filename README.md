@@ -5,11 +5,16 @@ There is also a main script file which will download the dataset zip file, unzip
 the plot functions, which will save our plots to .png files.
 Functions list
 
-datainitialize (main function which calls all the rest *plot creation functions can also be called autonomously) /n
-createplot1 (for plot no.1) /n
-createplot2 (for plot no.2) /n
-createplot3 (for plot no.3) /n
-createplot4 (for plot no.4) /n
+datainitialize (main function which calls all the rest *plot creation functions can also be called autonomously)
+
+createplot1 (for plot no.1)
+
+createplot2 (for plot no.2)
+
+createplot3 (for plot no.3)
+
+createplot4 (for plot no.4)
+
 retrieveandunzip (function that downloads and unzips)
 
 This is a forked and cloned repository with the added result files (scripts and png) for the coursera assignment described below.
